@@ -4,4 +4,4 @@ Allow: /
 User-agent: Baiduspider
 Allow: /
 
-Sitemap: https://cixiclub.github.io/sitemap.xml
+Sitemap: https://alexanderding2025.github.io/sitemap.xml
