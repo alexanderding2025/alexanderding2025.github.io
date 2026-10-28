@@ -1,7 +1,11 @@
 User-agent: *
 Allow: /
+Disallow: /.tmp/
 
 User-agent: Baiduspider
+Allow: /
+
+User-agent: Bytespider
 Allow: /
 
 Sitemap: https://alexanderding2025.github.io/sitemap.xml
